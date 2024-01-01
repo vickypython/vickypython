@@ -22,6 +22,6 @@ If you have any questions, collaboration opportunities, or just want to connect,
 
 🌐 Portfolio Website:
 📧 Email: vickymlucky6@gmail.com
-💼 LinkedIn: VICTOR KYALO
+💼 LinkedIn: Victor Torvic
 
 Let's build innovative solutions and make the digital world a safer place! 🌍✨
