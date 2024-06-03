@@ -1,4 +1,4 @@
-👋 Hello, I'm Anonymous Angel!
+👋 Hello, I'm victor Kyalo!
 
 🌟 Frontend Developer | Cybersecurity Analyst | REST API Developer 🌟
 
@@ -22,6 +22,6 @@ If you have any questions, collaboration opportunities, or just want to connect,
 
 🌐 Portfolio Website:
 📧 Email: vickymlucky6@gmail.com
-💼 LinkedIn: Victor Torvic
+💼 LinkedIn: Victor Kyalo
 
 Let's build innovative solutions and make the digital world a safer place! 🌍✨
