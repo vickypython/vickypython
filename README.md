@@ -3,7 +3,7 @@
 🌟 Frontend Developer | Cybersecurity Analyst | REST API Developer 🌟
 
 🚀 About Me
-I am a passionate and versatile professional with expertise in frontend development, cybersecurity analysis, and REST API development. With 2 years of experience in the industry, I have gained valuable skills and knowledge in creating user-friendly interfaces, securing web applications, and building robust RESTful APIs.
+I am a passionate and versatile professional with expertise in frontend development, cybersecurity analysis, and REST API development. With 4+ years of experience in the industry, I have gained valuable skills and knowledge in creating user-friendly interfaces, securing web applications, and building robust RESTful APIs.
 
 💻 Frontend Development
 I specialize in crafting responsive and intuitive user interfaces using modern web technologies such as HTML5, CSS3, and JavaScript frameworks like React.js and Node.js. I have a keen eye for design and focus on delivering exceptional user experiences that drive engagement and conversion.
