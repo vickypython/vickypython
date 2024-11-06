@@ -1,12 +1,12 @@
 👋 Hello, I'm victor Kyalo!
 
-🌟 Frontend Developer | Cybersecurity Analyst | REST API Developer 🌟
+🌟 Fullstack Developer | Cybersecurity Analyst | REST API Developer 🌟
 
 🚀 About Me
 I am a passionate and versatile professional with expertise in frontend development, cybersecurity analysis, and REST API development. With 4+ years of experience in the industry, I have gained valuable skills and knowledge in creating user-friendly interfaces, securing web applications, and building robust RESTful APIs.
 
 💻 Frontend Development
-I specialize in crafting responsive and intuitive user interfaces using modern web technologies such as HTML5, CSS3, and JavaScript frameworks like React.js and Node.js. I have a keen eye for design and focus on delivering exceptional user experiences that drive engagement and conversion.
+I specialize in crafting responsive and intuitive user interfaces using modern web technologies such as HTML5, CSS3,  Typescript,Python,c++ and  JavaScript frameworks like React.js and Node.js. I have a keen eye for design and focus on delivering exceptional user experiences that drive engagement and conversion.
 
 🔒 Cybersecurity Analysis
 I have a strong understanding of cybersecurity principles and practices, allowing me to identify and mitigate potential vulnerabilities in web applications. I am skilled in conducting penetration testing, vulnerability assessments, and threat modeling to ensure the security and integrity of digital assets.
